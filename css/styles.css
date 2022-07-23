@@ -1,4 +1,32 @@
-body { */
+body {
   font-family: "Roboto", sans-serif;
 }
 
+.header-link {
+  color: gold;
+}
+.header-logo {
+  color: red;
+}
+.header-tel {
+  color: green;
+}
+.header-item {
+  color: darkblue;
+}
+.header-mail {
+  color: greenyellow;
+}
+.header a {
+  background-color: black;
+}
+.team-list-img {
+  background-color: red;
+}
+
+.about-img-photo {
+  background-color: red;
+}
+.team-list-name {
+  color: tomato;
+}
